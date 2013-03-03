@@ -1,0 +1,2 @@
+# Module org.tushar.lovecalcgwt
+# RPC service class, partial path of RPC policy file
